@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "cryptography"
+name = "locksmith"
 version = "0.1.0"
 description = "Cryptography with Python"
 authors = ["Your Name <you@example.com>"]
